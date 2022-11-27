@@ -1,0 +1,243 @@
+/*                                                
+               _           _           _         _                   
+   ___ ___ ___| |_ ___ _ _|_|_____ ___| |___ ___| |_   ___ ___ _____ 
+  |  _| . |  _|  _| -_|_'_| |     | . | | .'|   |  _|_|  _| . |     |
+  |___|___|_| |_| |___|_,_|_|_|_|_|  _|_|__,|_|_|_| |_|___|___|_|_|_|
+                                  |_|                        
+                       ___ _ _ ___| |_ ___ _____   ___ ___ ___ 
+                      |  _| | |_ -|  _| . |     |_|  _|_ -|_ -|
+                      |___|___|___|_| |___|_|_|_|_|___|___|___|
+
+  ###################################################################
+  # DATA TERM ENTRY: Your brainware is f*ck'd, choom!               #
+  ###################################################################
+  # Oh hey choom,                                                   #
+  #                                                                 #
+  # you must be suffering from cyberpsychosis.                      #
+  #                                                                 #
+  # There is no other way I can explain why you should look at      #
+  # this custom.css file.                                           #
+  #                                                                 #
+  # Well, now you've found it.                                      #
+  #                                                                 #
+  # You're probably a corpo-netrunner trying                        #
+  # to get behind the blackwall of corteximplant.com.               #
+  #                                                                 #
+  # What can I tell you, your implant is now infected with a virus. #
+  #                                                                 #
+  # You can try to roll 1D20 to remove the virus,                   #
+  # but I don't think you can do it.                                #
+  #                                                                 #
+  # Just share your result with @revengeday with the hashtag:       #
+  # #yesiamacorponetrunner                                          #
+  #                                                                 #
+  # With a bit of luck, something strange will happen.              #
+  #                                                                 #
+  # C-YA, choom.                                                    #
+  ###################################################################
+
+*/
+
+
+/*
+   _         _     
+  | |_ ___ _| |_ _ 
+  | . | . | . | | |
+  |___|___|___|_  |
+              |___|
+*/
+
+/*
+  
+  Monospace'd
+  ---
+  Dirty hack to change all fonts to monospace.
+
+*/
+
+body {
+  font-family: monospace;
+}
+.rich-formatting {
+  font-family: monospace;
+  }
+}
+.rich-formatting h1 {
+  font-family: monospace;
+  text-transform: uppercase;
+}
+.rich-formatting h2 {
+  font-family: monospace;
+  text-transform: uppercase;
+}
+.rich-formatting h3 {
+  font-family: monospace;
+  text-transform: uppercase;
+}
+.rich-formatting h4 {
+  font-family: monospace;
+  text-transform: uppercase;
+}
+.rich-formatting h5 {
+  font-family: monospace;
+  text-transform: uppercase;
+}
+
+/*                            
+   _       _   _               
+  | |_ _ _| |_| |_ ___ ___ ___ 
+  | . | | |  _|  _| . |   |_ -|
+  |___|___|_| |_| |___|_|_|___|
+                               
+*/
+/* 
+
+  Cybertoot Button - Web 
+  ---
+  Change from "Publish!" button to "Cybertoot!" 
+  for the web version in the desktop view.
+
+*/
+.compose-form__publish-button-wrapper > .button::after {
+  content: 'Cybertoot!';
+  font-size: 15px;
+  transform: translateY(2px);
+  display: inline-block;
+}
+.compose-form__publish-button-wrapper > .button {
+  font-size: 0;
+}
+/* 
+
+  Cybertoot Button - Mobile 
+  ---
+  Change from "Publish!" button to "Cybertoot!" 
+  for the web version in the desktop view.
+
+*/
+.ui__header__links > .button[href*='publish']::after {
+  content: 'Cybertoot!';
+  font-size: 15px;
+  transform: translateY(2px);
+  display: inline-block;
+}
+.ui__header__links > .button[href*='publish'] {
+  font-size: 0;
+}
+
+/* 
+
+  Chippin' in Register-Button Web 
+  ---
+  Change from "Sign up" button to "Chippin' in!" 
+  for the web version in the desktop view.
+
+*/
+.sign-in-banner > .button[href*='/auth/sign_up']::after {
+  content: 'Chippin\0027 in!';
+  font-size: 15px;
+  transform: translateY(2px);
+  display: inline-block;
+}
+.sign-in-banner > .button[href*='/auth/sign_up'] {
+  font-size: 0;
+}
+/* 
+
+  Chippin' in Register-Button Mobile 
+  ---
+  Change from "Sign up" button to "Chippin' in!" 
+  for the web version in the desktop view.
+
+*/
+.ui__header__links > .button[href*='/auth/sign_up']::after {
+  content: 'Chippin\0027 in!';
+  font-size: 15px;
+  transform: translateY(2px);
+  display: inline-block;
+}
+.ui__header__links > .button[href*='/auth/sign_up'] {
+  font-size: 0;
+}
+
+/* 
+
+  Netrun Button - Login Web 
+  ---
+  Change from "Login" button to "Netrun!" 
+  for the web version in the desktop view.
+
+*/
+.sign-in-banner > .button[href*='/auth/sign_in']::after {
+  content: 'Netrun!';
+  font-size: 15px;
+  transform: translateY(2px);
+  display: inline-block;
+}
+.sign-in-banner > .button[href*='/auth/sign_in'] {
+  font-size: 0;
+}
+
+/* 
+
+  Netrun Button - Login Mobile 
+  ---
+  Change from "Login" button to "Netrun!" 
+  for the web version in the desktop view.
+
+*/
+.ui__header__links > .button[href*='/auth/sign_in']::after {
+  content: 'Netrun!';
+  font-size: 15px;
+  transform: translateY(2px);
+  display: inline-block;
+}
+.ui__header__links > .button[href*='/auth/sign_in'] {
+  font-size: 0;
+}
+/*
+   _           _       
+  | |_ ___ ___| |_ ___ 
+  |   | .'|  _| '_|_ -|
+  |_|_|__,|___|_,_|___|
+                       
+*/
+/*
+
+  Profile pictures
+  ---
+  Square profile pictures become round profile pictures
+
+*/
+.account__avatar {
+  border-radius: 50%;
+}
+/* 
+
+  About Page Button
+  ---
+  Hack for the buttons on the about page
+
+*/
+.coolbutton {
+  color: #fff;
+  text-decoration: none;
+}
+/*
+
+  Eugen will be angry!
+  ---
+  No Mastodon-Mascot in the Webview
+
+*/
+
+.drawer__inner__mastodon {
+  display: none;
+} 
+/*
+               _              _       ___ ___ 
+ _____ ___ ___| |_ ___    ___| |_ _ _|  _|  _|
+|     | .'|_ -|  _| . |  |_ -|  _| | |  _|  _|
+|_|_|_|__,|___|_| |___|  |___|_| |___|_| |_|  
+                                              
+*/
