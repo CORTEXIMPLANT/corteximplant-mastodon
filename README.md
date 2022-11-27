@@ -1,7 +1,7 @@
 ![CORTEX IMPLANT Logo](https://github.com/revengeday/corteximplant-mastodon/blob/main/images/header.png?raw=true)
 # CORTEX IMPLANT
 
-**[CORTEX IMPLANT](https://corteximplant.com)** is an Mastodon instance for all cyberpunks and edgerunners who survived the big DataKrash and want to stay independent and hide from NetWatch.
+**[CORTEX IMPLANT](https://corteximplant.com)** is a Mastodon instance for all cyberpunks and edgerunners who survived the big DataKrash and want to stay independent and hide from NetWatch.
 
 In this repo you will find some content about **CORTEX IMPANT** that might help you to start a cool community.
 

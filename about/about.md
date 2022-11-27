@@ -2,7 +2,7 @@
 
 # 🫀 About
 
-**CORTEX IMPLANT** is an instance for all cyberpunks and edgerunners who survived the big *DataKrash* [[?](https://rtalsoriangames.com/2020/07/17/cyberpunk-red-meet-the-neocorps/)] and want to stay independent and hide from NetWatch.
+**CORTEX IMPLANT** is a instance for all cyberpunks and edgerunners who survived the big *DataKrash* [[?](https://rtalsoriangames.com/2020/07/17/cyberpunk-red-meet-the-neocorps/)] and want to stay independent and hide from NetWatch.
 
 Link your cyberware and connect with creative **LGBTQIA+ friendly** netrunners, solos, fixers, nomads, techies, medias, corpos and rockers from all over the world behind a heavy ICE.
 
