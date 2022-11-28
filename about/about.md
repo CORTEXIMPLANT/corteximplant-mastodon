@@ -146,7 +146,9 @@ We use some emotes on this instance which have to be purchased. If you are an in
 	- Squirrel Emotes by [SunnyMotions](https://www.etsy.com/shop/SunnyMotions) (Licensing)
 	- Cyberpunk Lucy (1) Emotes by [BuncakeEmotes](https://www.etsy.com/shop/BuncakeEmotes) (Licensing)
 	- Cyberpunk Lucy (2) Emotes by [CatLeafStory](https://www.etsy.com/shop/CatLeafStory) (Licensing)
-	- Cyberpunk Rebecca Emotes by [AidenR0](https://www.pixiv.net/en/users/78675837) (Licensing)
+	- Cyberpunk Rebecca Emotes (1) by [AidenR0](https://www.pixiv.net/en/users/78675837) (Licensing)
+	- Cyberpunk Rebecca Emotes (2) by [CatLeafStory](https://www.etsy.com/shop/CatLeafStory) (Licensing)
+	- Cyberpunk Rebecca Emotes (3) by [BuncakeEmotes](https://www.etsy.com/shop/BuncakeEmotes) (Licensing)
 	- Cyberpunk Valerie Emotes by [CelifeArt](https://www.etsy.com/at/shop/CelifeArt) (Licensing)
 	- Revengeday Emotes by [dopanin](https://janineberg.de/) (Commission)
 
