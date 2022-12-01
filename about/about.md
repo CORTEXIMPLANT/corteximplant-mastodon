@@ -118,6 +118,9 @@ We would like to thank all supporters who help to keep **CORTEX IMPLANT** runnin
 
 Listing in last donated:
 
+- [@hagbard](https://corteximplant.com/@hagbard)
+- [@timm](https://corteximplant.com/@timm)
+- [@timmy](https://corteximplant.com/@timmy)
 - [@seeker](https://corteximplant.com/@seeker)
 - [@SynAck](https://corteximplant.com/@SynAck)
 - [@amc314](https://corteximplant.com/@amc314)

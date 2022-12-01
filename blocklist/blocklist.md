@@ -19,10 +19,11 @@ If you are interested in a proof, please contact [@lucy](https://corteximplant.c
 Some requests may NOT be answered due to legal reasons.
 
 ## Blocklist overview
-|Instance                            |Reason                                                                             |Type        |Obfuscate domain name|
+|Instance                            |Reason                                                                             |Tyoe	      |Obfuscate domain name|
 |------------------------------------|-----------------------------------------------------------------------------------|------------|---------------------|
 |23.illuminati.org                   |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |aethy.com                           |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
+|akko.disqordia.space                |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |anime.website                       |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
 |ap.uwu.st                           |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |bae.st                              |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
@@ -76,6 +77,7 @@ Some requests may NOT be answered due to legal reasons.
 |eveningzoo.club                     |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |f.haeder.net                        |Discrimination                                                                     |🚫 Suspended|                     |
 |fapsi.be                            |Discrimination. Homophobia, Transphobia                                            |🚫 Suspended|                     |
+|fedi.intkos.link                    |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |freeatlantis.com                    |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
 |freecumextremist.com                |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
 |freefedifollowers.ga                |Bot-Network                                                                        |🚫 Suspended|                     |
@@ -90,6 +92,7 @@ Some requests may NOT be answered due to legal reasons.
 |gameliberty.club                    |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |gegenstimme.tv                      |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |genderheretics.xyz                  |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
+|geofront.rocks                      |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |gitmo.life                          |Discrimination                                                                     |🚫 Suspended|                     |
 |gleasonator.com                     |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |glindr.org                          |Discrimination                                                                     |🚫 Suspended|                     |
@@ -100,11 +103,16 @@ Some requests may NOT be answered due to legal reasons.
 |jaeger.website                      |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |kenfm.quadplay.tv                   |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |kiwifarms.cc                        |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
+|kolektiva.social                    |Unmoderated / poor moderation, Discrimination                                      |🔇 Silenced |                     |
+|kompost.cz                          |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
+|kurosawa.moe                        |Discrimination, Racism                                                             |🚫 Suspended|                     |
+|lain.gay                            |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |libre.tube                          |Discrimination, Racism, § 131 - German Criminal Code                               |🚫 Suspended|                     |
 |ligma.pro                           |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |lizards.live                        |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |lolicon.rocks                       |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
 |lolison.top                         |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
+|lounge.dtzbts.xyz                   |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |lovingexpressions.net               |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
 |mastodon.network                    |Scams, Frauds, Bots                                                                |🚫 Suspended|                     |
 |mastodon.popps.org                  |Discrimination, Racism                                                             |🚫 Suspended|                     |
@@ -133,6 +141,7 @@ Some requests may NOT be answered due to legal reasons.
 |pieville.net                        |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
 |pl.info.natehiggers.online          |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
 |pl.natehiggers.online               |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
+|pl.serialmay.link                   |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |pl.tkammer.de                       |Discrimination                                                                     |🚫 Suspended|                     |
 |play.xmr.101010.pl                  |Bot-Network, Scams, Frauds                                                         |🚫 Suspended|                     |
 |pleroma.8777.ch                     |Discrimination, Racism                                                             |🚫 Suspended|                     |
@@ -144,7 +153,7 @@ Some requests may NOT be answered due to legal reasons.
 |poa.st                              |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
 |poster.place                        |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
 |posting.lolicon.rocks               |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
-|qoto.org                            |Unmoderated / poor moderation, Discrimination, Racism                              |🚫 Silenced |                     |
+|qoto.org                            |Unmoderated / poor moderation, Discrimination, Racism (not by all users)           |🔇 Silenced |                     |
 |rapemeat.solutions                  |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
 |rdrama.cc                           |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |researchanddestroy.technology       |Bot-Network                                                                        |🚫 Suspended|                     |
@@ -172,6 +181,7 @@ Some requests may NOT be answered due to legal reasons.
 |solagg.com                          |Scams, Frauds                                                                      |🚫 Suspended|                     |
 |spinster.xyz                        |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |strelizia.net                       |Discrimination, Racism, Haid-Raids                                                 |🚫 Suspended|                     |
+|suya.place                          |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |tastingtraffic.net                  |Discrimination, Bot-Network, Haid-Raids                                            |🚫 Suspended|                     |
 |toot.canberrasocial.net             |Bot-Network                                                                        |🚫 Suspended|                     |
 |truthsocial.co.in                   |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
