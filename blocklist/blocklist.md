@@ -125,6 +125,7 @@ Some requests may NOT be answered due to legal reasons.
 |mi.tkw.fm                           |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |midnightride.rs                     |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |miruku.cafe                         |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
+|misskey-forkbomb.cf                 |Bot-Network, Haid-Raids                                                            |🚫 Suspended|                     |
 |mixtape.absturztau.be               |Unmoderated / poor moderation, Discrimination, Spam                                |🔇 Silenced |                     |
 |monads.online                       |Discrimination, Racism, Haid-Raids                                                 |🚫 Suspended|                     |
 |mstdn.foxfam.club                   |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
@@ -163,6 +164,7 @@ Some requests may NOT be answered due to legal reasons.
 |qoto.org                            |Unmoderated / poor moderation, Discrimination, Racism                              |🔇 Silenced |                     |
 |rapemeat.solutions                  |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
 |rdrama.cc                           |Discrimination, Racism                                                             |🚫 Suspended|                     |
+|repl.co                             |Bot-Network, Haid-Raids                                                            |🚫 Suspended|                     |
 |researchanddestroy.technology       |Bot-Network                                                                        |🚫 Suspended|                     |
 |rojogato.com                        |Discrimination, Racism, Hate-Raids                                                 |🚫 Suspended|                     |
 |ryona.agency                        |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
