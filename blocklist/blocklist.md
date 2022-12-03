@@ -19,9 +19,12 @@ If you are interested in a proof, please contact [@lucy](https://corteximplant.c
 Some requests may NOT be answered due to legal reasons.
 
 ## Blocklist overview
-|Instance                            |Reason                                                                             |Tyoe	      |Obfuscate domain name|
+
+|Instance                            |Reason                                                                             |Type        |Obfuscate domain name|
 |------------------------------------|-----------------------------------------------------------------------------------|------------|---------------------|
 |23.illuminati.org                   |Discrimination, Racism                                                             |🚫 Suspended|                     |
+|absturztau.be                       |Unmoderated / poor moderation, Discrimination, Spam                                |🔇 Silenced |                     |
+|activitypub-troll.cf                |Bot-Network, Haid-Raids                                                            |🚫 Suspended|                     |
 |aethy.com                           |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
 |akko.disqordia.space                |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |anime.website                       |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
@@ -77,6 +80,7 @@ Some requests may NOT be answered due to legal reasons.
 |eveningzoo.club                     |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |f.haeder.net                        |Discrimination                                                                     |🚫 Suspended|                     |
 |fapsi.be                            |Discrimination. Homophobia, Transphobia                                            |🚫 Suspended|                     |
+|fedi.absturztau.be                  |Unmoderated / poor moderation, Discrimination, Spam                                |🔇 Silenced |                     |
 |fedi.intkos.link                    |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |freeatlantis.com                    |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
 |freecumextremist.com                |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
@@ -103,7 +107,7 @@ Some requests may NOT be answered due to legal reasons.
 |jaeger.website                      |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |kenfm.quadplay.tv                   |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |kiwifarms.cc                        |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
-|kolektiva.social                    |Unmoderated / poor moderation, Discrimination                                      |🔇 Silenced |                     |
+|kolektiva.social                    |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |kompost.cz                          |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |kurosawa.moe                        |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |lain.gay                            |Discrimination, Racism                                                             |🚫 Suspended|                     |
@@ -121,6 +125,7 @@ Some requests may NOT be answered due to legal reasons.
 |mi.tkw.fm                           |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |midnightride.rs                     |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |miruku.cafe                         |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
+|mixtape.absturztau.be               |Unmoderated / poor moderation, Discrimination, Spam                                |🔇 Silenced |                     |
 |monads.online                       |Discrimination, Racism, Haid-Raids                                                 |🚫 Suspended|                     |
 |mstdn.foxfam.club                   |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |mugicha.club                        |Discrimination, Racism                                                             |🚫 Suspended|                     |
@@ -129,6 +134,7 @@ Some requests may NOT be answered due to legal reasons.
 |newjack.city                        |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |nicecrew.digital                    |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |nitecrew.rip                        |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
+|nitter.absturztau.be                |Unmoderated / poor moderation, Discrimination, Spam                                |🔇 Silenced |                     |
 |nnia.space                          |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |noagendasocial.com                  |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |not-develop.gab.com                 |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
@@ -151,9 +157,10 @@ Some requests may NOT be answered due to legal reasons.
 |pleroma.rareome.ga                  |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |pleroma.stream                      |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |poa.st                              |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
+|polaroid.absturztau.be              |Unmoderated / poor moderation, Discrimination, Spam                                |🔇 Silenced |                     |
 |poster.place                        |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
 |posting.lolicon.rocks               |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
-|qoto.org                            |Unmoderated / poor moderation, Discrimination, Racism (not by all users)           |🔇 Silenced |                     |
+|qoto.org                            |Unmoderated / poor moderation, Discrimination, Racism                              |🔇 Silenced |                     |
 |rapemeat.solutions                  |Discrimination, Racism, § 184b - German Criminal Code                              |🚫 Suspended|👩‍⚖️ Recommended    |
 |rdrama.cc                           |Discrimination, Racism                                                             |🚫 Suspended|                     |
 |researchanddestroy.technology       |Bot-Network                                                                        |🚫 Suspended|                     |
@@ -161,6 +168,7 @@ Some requests may NOT be answered due to legal reasons.
 |ryona.agency                        |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
 |s.sneak.berlin                      |Doxxing                                                                            |🚫 Suspended|                     |
 |seal.cafe                           |Discrimination, Racism, § 86a - German Criminal Code                               |🚫 Suspended|                     |
+|searx.absturztau.be                 |Unmoderated / poor moderation, Discrimination, Spam                                |🔇 Silenced |                     |
 |shitpost.cloud                      |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
 |shitposter.club                     |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
 |shortstackran.ch                    |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
@@ -181,6 +189,7 @@ Some requests may NOT be answered due to legal reasons.
 |solagg.com                          |Scams, Frauds                                                                      |🚫 Suspended|                     |
 |spinster.xyz                        |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |strelizia.net                       |Discrimination, Racism, Haid-Raids                                                 |🚫 Suspended|                     |
+|super8.absturztau.be                |Unmoderated / poor moderation, Discrimination, Spam                                |🔇 Silenced |                     |
 |suya.place                          |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |tastingtraffic.net                  |Discrimination, Bot-Network, Haid-Raids                                            |🚫 Suspended|                     |
 |toot.canberrasocial.net             |Bot-Network                                                                        |🚫 Suspended|                     |
@@ -192,6 +201,7 @@ Some requests may NOT be answered due to legal reasons.
 |twitterbridge.jannis.rocks          |Crossposter                                                                        |🔇 Silenced |                     |
 |twtr.plus                           |Crossposter                                                                        |🔇 Silenced |                     |
 |varishangout.net                    |Discrimination, Racism, § 86a - German Criminal Code, § 184b - German Criminal Code|🚫 Suspended|👩‍⚖️ Recommended    |
+|vhs.absturztau.be                   |Unmoderated / poor moderation, Discrimination, Spam                                |🔇 Silenced |                     |
 |weatherishappening.network          |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
 |weedis.life                         |Discrimination, Racism, Haid-Raids                                                 |🚫 Suspended|                     |
 |wiki-tube.de                        |Discrimination. Racism, Homophobia, Transphobia                                    |🚫 Suspended|                     |
