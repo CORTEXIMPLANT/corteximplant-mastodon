@@ -62,6 +62,7 @@ Please report behaviour that bothers you. We will keep your report confidential.
 - We do not tolerate conspiracy narratives or other reactionary myths supporting or leading to the above-mentioned (and/or similar) behavior.
 - Actions intended to damage this instance or its performance may lead to immediate account suspension.
 - Content that is illegal in Germany will be deleted and may lead to immediate account suspension.
+- NFT and other blockchain-based works in any form are prohibited; even if they are your own creation. Please do not post, share, promote, offer for sale, or otherwise engage in trade, any work based on these technologies.
 
 ## 👤 Staff
 
