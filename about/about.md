@@ -118,6 +118,8 @@ We would like to thank all supporters who help to keep **CORTEX IMPLANT** runnin
 
 Listing in last donated:
 
+- [@davue](https://corteximplant.com/@davue)
+- [@bloodywing](https://mastodon.art/@bloodywing) from mastodon.art
 - [@alex](https://corteximplant.com/@alex)
 - [@hagbard](https://corteximplant.com/@hagbard)
 - [@timm](https://corteximplant.com/@timm)
