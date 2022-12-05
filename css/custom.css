@@ -9,7 +9,7 @@
                       |___|___|___|_| |___|_|_|_|_|___|___|___|
 
   ###################################################################
-  # DATA TERM ENTRY: Your brainware is f*ck'd, choom!               #
+  # DATA TERM ENTRY: Your brainware is fuck'd, choom!               #
   ###################################################################
   # Oh hey choom,                                                   #
   #                                                                 #
@@ -223,6 +223,7 @@ body {
   color: #fff;
   text-decoration: none;
 }
+
 /*
 
   Eugen will be angry!
@@ -234,6 +235,57 @@ body {
 .drawer__inner__mastodon {
   display: none;
 } 
+
+/*
+
+  Emote zoom by @Sirs0ri <3
+  https://corteximplant.com/@Sirs0ri
+  ---
+  Emotes are enlarged when you move the cursor over them. 
+  Does not work in Firefox.
+
+*/
+
+@supports selector(:has(a, b)) {
+  /* Temporarily disable overflow on elements restraining the images while hovering */
+  :where(
+    /* Toots */
+    .status__content,
+    .display-name,
+    .status__display-name,
+    /* DMs */
+    .conversation__content__names,
+    .conversation__content__info,
+    .conversation__content,
+    /* Boosts */
+    .status__prepend>span,
+    /* follow notifications */
+    .notification__message>span,
+    .account__display-name strong,
+    .account .account__display-name,
+    /* Profiles */
+    .account__header__tabs__name h1,
+    .account__header__content,
+    /* Profile Info Table */
+    .account__header__fields dd,
+    .account__header__fields dt
+  ):has(img.emojione:hover) {
+    overflow: revert;
+  }
+  /* Add Transition to make it look nice */
+  :not(.emoji-button)>img.emojione {
+    transition:
+      transform 200ms,
+      opacity 200ms;
+  }
+  /* Finally, scale emojis on hover and make sure they're fully visible */
+  :not(.emoji-button)>img.emojione:hover {
+    transform: scale(5);
+    opacity: 1;
+    z-index: 1;
+    position: relative;
+  }
+}
 /*
                _              _       ___ ___ 
  _____ ___ ___| |_ ___    ___| |_ _ _|  _|  _|
