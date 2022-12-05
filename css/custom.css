@@ -223,7 +223,6 @@ body {
   color: #fff;
   text-decoration: none;
 }
-
 /*
 
   Eugen will be angry!
@@ -235,17 +234,10 @@ body {
 .drawer__inner__mastodon {
   display: none;
 } 
-
 /*
-
-  Emote zoom by @Sirs0ri <3
+  Cool emote pop up from 
   https://corteximplant.com/@Sirs0ri
-  ---
-  Emotes are enlarged when you move the cursor over them. 
-  Does not work in Firefox.
-
 */
-
 @supports selector(:has(a, b)) {
   /* Temporarily disable overflow on elements restraining the images while hovering */
   :where(
@@ -255,6 +247,8 @@ body {
     .status__display-name,
     /* DMs */
     .conversation__content__names,
+    .detailed-status__display-name,
+    .detailed-status__display-name strong,
     .conversation__content__info,
     .conversation__content,
     /* Boosts */
@@ -282,7 +276,7 @@ body {
   :not(.emoji-button)>img.emojione:hover {
     transform: scale(5);
     opacity: 1;
-    z-index: 1;
+    z-index: 2;
     position: relative;
   }
 }
