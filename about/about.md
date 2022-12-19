@@ -119,6 +119,7 @@ We would like to thank all supporters who help to keep **CORTEX IMPLANT** runnin
 
 Listing in last donated:
 
+- [@Sirs0ri](https://corteximplant.com/@Sirs0ri)
 - [@Illdikko](https://corteximplant.com/@Illdikko)
 - [@rolehk](https://corteximplant.com/@rolehk)
 - [@cactus](https://cheekibreeki.express/@cactus) from cheekibreeki.express
