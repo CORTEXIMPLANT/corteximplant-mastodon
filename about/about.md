@@ -100,11 +100,11 @@ To provide this great instance, we have monthly expenses to keep the instance ru
 
 That' s what we spend: (all prices in Euro): 
 
-- Hosting: 19,99
+- Hosting: 34,00
 - Domain: 1,22
 - Elasticsearch: 10,00
 - DeepL Pro API 9,99
-- <u>Total:</u> 41,30
+- <u>Total:</u> 55,21
 
 If you like our instance and are happy with what we provide and would like to donate something, we are very happy to receive small donations to keep the instance running.
 
@@ -119,6 +119,7 @@ We would like to thank all supporters who help to keep **CORTEX IMPLANT** runnin
 
 Listing in last donated:
 
+- [@TCD](https://corteximplant.com/@TCD)
 - [@Sirs0ri](https://corteximplant.com/@Sirs0ri)
 - [@Illdikko](https://corteximplant.com/@Illdikko)
 - [@rolehk](https://corteximplant.com/@rolehk)
