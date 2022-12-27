@@ -243,8 +243,10 @@ body {
   :where(
     /* Toots */
     .status__content,
-    .display-name,
+    :not(.reply-indicator__display-name)>.display-name,
     .status__display-name,
+    /* Poll Option */
+    label.poll__option,
     /* DMs */
     .conversation__content__names,
     .detailed-status__display-name,
@@ -262,18 +264,34 @@ body {
     .account__header__content,
     /* Profile Info Table */
     .account__header__fields dd,
-    .account__header__fields dt
+    .account__header__fields dt,
+    /* Replying to a toot - body only */
+    .reply-indicator,
+    .reply-indicator__content,
+    .status__content,
+    /* Picture in picture player */
+    .picture-in-picture__header__account,
+    .picture-in-picture__header .display-name span,
+    .picture-in-picture__header .display-name strong
   ):has(img.emojione:hover) {
     overflow: revert;
   }
   /* Add Transition to make it look nice */
-  :not(.emoji-button)>img.emojione {
+  :not(
+    .reply-indicator__header strong,
+    .emoji-button,
+    .reactions-bar__item__emoji
+  )>img.emojione {
     transition:
       transform 200ms,
       opacity 200ms;
   }
   /* Finally, scale emojis on hover and make sure they're fully visible */
-  :not(.emoji-button)>img.emojione:hover {
+  :not(
+    .reply-indicator__header strong,
+    .emoji-button,
+    .reactions-bar__item__emoji
+  )>img.emojione:hover {
     transform: scale(5);
     opacity: 1;
     z-index: 2;
