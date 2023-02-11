@@ -11,6 +11,8 @@ In this repo you will find some content about **CORTEX IMPANT** that might help 
 - [@kaiserkiwi](https://corteximplant.com/@kaiserkiwi) (Mod)
 - [@chaotin](https://corteximplant.com/@chaotin) (Mod)
 - [@wolfe](https://corteximplant.com/@wolfe) (Mod)
+- [@Sirs0ri](https://corteximplant.com/@Sirs0ri) (Mod)
+- [@LevelUp](https://corteximplant.com/@LevelUp) (Mod)
 - [@lucy](https://corteximplant.com/@lucy) (Announcer)
 
 ## License
