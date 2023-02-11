@@ -60,7 +60,6 @@ body {
 }
 .rich-formatting {
   font-family: monospace;
-  }
 }
 .rich-formatting h1 {
   font-family: monospace;
@@ -98,15 +97,20 @@ body {
   for the web version in the desktop view.
 
 */
-.compose-form__publish-button-wrapper > .button::after {
+.compose-form__publish-button-wrapper > .button.primary::after {
   content: 'Cybertoot!';
   font-size: 15px;
   transform: translateY(2px);
   display: inline-block;
 }
-.compose-form__publish-button-wrapper > .button {
+.compose-form__publish-button-wrapper > .button.primary {
   font-size: 0;
 }
+.compose-form__publish-button-wrapper > .button.side_arm {
+  height: 100%;
+  width: 41px;
+}
+
 /* 
 
   Cybertoot Button - Mobile 
@@ -209,7 +213,9 @@ body {
   Square profile pictures become round profile pictures
 
 */
-.account__avatar {
+.account__avatar,
+.account__avatar-overlay-base,
+.account__avatar-overlay-overlay {
   border-radius: 50%;
 }
 /* 
@@ -243,8 +249,11 @@ body {
   :where(
     /* Toots */
     .status__content,
+    .status__content .e-content,
+    .status__content .status__content__text,
     :not(.reply-indicator__display-name)>.display-name,
     .status__display-name,
+    .status__info>span,
     /* Poll Option */
     label.poll__option,
     /* DMs */
