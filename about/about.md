@@ -13,6 +13,8 @@ We want to give you the best way into the Fediverse on this instance and have im
 - 🔍 Elasticsearch [[?](https://en.wikipedia.org/wiki/Elasticsearch)]
 - 💬 Translation via DeepL Pro API [[?](https://www.deepl.com/de/pro-api)]
 - 🌐 S3-Cache [[?](https://en.wikipedia.org/wiki/Content_delivery_network)]
+- 🐘 Mastodon with glitch-soc! [[?](https://glitch-soc.github.io/docs/)]
+- 💜 Self-hosted
 - 💎 Cybertoot-Button
 - 📟 Cyberware compatible
 
@@ -72,6 +74,8 @@ You can report suspicious behavior of members to the admin or moderations at any
 - [@kaiserkiwi](https://corteximplant.com/@kaiserkiwi) (Mod)
 - [@chaotin](https://corteximplant.com/@chaotin) (Mod)
 - [@wolfe](https://corteximplant.com/@wolfe) (Mod)
+- [@Sirs0ri](https://corteximplant.com/@Sirs0ri) (Mod)
+- [@LevelUp](https://corteximplant.com/@LevelUp) (Mod)
 - [@lucy](https://corteximplant.com/@lucy) (Announcer)
 
 If you do not have a Fediverse account, you can also contact us by email at help@corteximplant.com.
@@ -100,11 +104,10 @@ To provide this great instance, we have monthly expenses to keep the instance ru
 
 That' s what we spend: (all prices in Euro): 
 
-- Hosting: 34,00
+- Hosting: 48,00
 - Domain: 1,22
-- Elasticsearch: 10,00
-- DeepL Pro API 9,99
-- <u>Total:</u> 55,21
+- DeepL Pro API: 9,99
+- <u>Total:</u> 59,21
 
 If you like our instance and are happy with what we provide and would like to donate something, we are very happy to receive small donations to keep the instance running.
 
@@ -119,6 +122,7 @@ We would like to thank all supporters who help to keep **CORTEX IMPLANT** runnin
 
 Listing in last donated:
 
+- [@brokenArc](https://corteximplant.com/@brokenArc)
 - [@TCD](https://corteximplant.com/@TCD)
 - [@Sirs0ri](https://corteximplant.com/@Sirs0ri)
 - [@Illdikko](https://corteximplant.com/@Illdikko)
@@ -183,6 +187,6 @@ Licensing: a licence for use was purchased for this art.
 
 We do not tolerate racism, discrimination, doxing, hate-speech and raids on this instance - for this reason some instances are blocked or muted from communicating with us.
 
-We use the "[Faraday's Fediverse Blocklist](https://github.com/F4R4DAY/faradays-fediverse-blocklist)" list to find out which instances serve as bad actors. Some instances you can reach, some are completely blocked.
+You can see our blocklist [here](https://github.com/CORTEXIMPLANT/corteximplant-mastodon/blob/main/blocklist/blocklist.md).
 
 In case you notice that you can't reach your friend because they is muted or blocked - if you feel that this is not fair, please contact [@lucy](https://corteximplant.com/@lucy).
