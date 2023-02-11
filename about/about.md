@@ -169,6 +169,7 @@ We use some emotes on this instance which have to be purchased. If you are an in
 	- Cyberpunk Rebecca Emotes (2) by [CatLeafStory](https://www.etsy.com/shop/CatLeafStory) (Licensing)
 	- Cyberpunk Rebecca Emotes (3) by [BuncakeEmotes](https://www.etsy.com/shop/BuncakeEmotes) (Licensing)
 	- Cyberpunk Valerie Emotes by [CelifeArt](https://www.etsy.com/at/shop/CelifeArt) (Licensing)
+	- LGBTQ+ Hexagon Pride Flag Stickers by @brokenArc [Github](https://github.com/brokenarc/lgbtq-hex-stickers)
 	- Revengeday Emotes by [dopanin](https://janineberg.de/) (Commission)
 
 - Header Image / Logo:
