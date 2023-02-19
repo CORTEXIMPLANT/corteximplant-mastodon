@@ -1,5 +1,3 @@
-<img src="https://mikoshi.obeythesystem.com/index.php/apps/files_sharing/publicpreview/dEytn3JLdqSEj3t?x=2864&y=824&a=true&file=logo.png&scalingup=0" alt="CORTEX IMPLANT" width="100%">
-
 # 🫀 About
 
 **CORTEX IMPLANT** is a instance for all cyberpunks and edgerunners who survived the big *DataKrash* [[?](https://rtalsoriangames.com/2020/07/17/cyberpunk-red-meet-the-neocorps/)] and want to stay independent and hide from NetWatch.
@@ -122,6 +120,7 @@ We would like to thank all supporters who help to keep **CORTEX IMPLANT** runnin
 
 Listing in last donated:
 
+- [@samreciter](https://corteximplant.com/@samreciter)
 - [@brokenArc](https://corteximplant.com/@brokenArc)
 - [@TCD](https://corteximplant.com/@TCD)
 - [@Sirs0ri](https://corteximplant.com/@Sirs0ri)
@@ -168,8 +167,9 @@ We use some emotes on this instance which have to be purchased. If you are an in
 	- Cyberpunk Rebecca Emotes (1) by [AidenR0](https://www.pixiv.net/en/users/78675837) (Licensing)
 	- Cyberpunk Rebecca Emotes (2) by [CatLeafStory](https://www.etsy.com/shop/CatLeafStory) (Licensing)
 	- Cyberpunk Rebecca Emotes (3) by [BuncakeEmotes](https://www.etsy.com/shop/BuncakeEmotes) (Licensing)
+	- Sailor Moon Emotes by [BuncakeEmotes](https://www.etsy.com/shop/BuncakeEmotes) (Licensing)
 	- Cyberpunk Valerie Emotes by [CelifeArt](https://www.etsy.com/at/shop/CelifeArt) (Licensing)
-	- LGBTQ+ Hexagon Pride Flag Stickers by @brokenArc [Github](https://github.com/brokenarc/lgbtq-hex-stickers)
+	- LGBTQ+ Hexagon Pride Flag Stickers by [@brokenArc](https://corteximplant.com/@brokenArc) [Github](https://github.com/brokenarc/lgbtq-hex-stickers)
 	- Revengeday Emotes by [dopanin](https://janineberg.de/) (Commission)
 
 - Header Image / Logo:
