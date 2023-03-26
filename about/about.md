@@ -62,7 +62,7 @@ Please report behaviour that bothers you. We will keep your report confidential.
 - We do not tolerate conspiracy narratives or other reactionary myths supporting or leading to the above-mentioned (and/or similar) behavior.
 - Actions intended to damage this instance or its performance may lead to immediate account suspension.
 - Content that is illegal in Germany will be deleted and may lead to immediate account suspension.
-- NFT and other blockchain-based works in any form are prohibited; even if they are your own creation. Please do not post, share, promote, offer for sale, or otherwise engage in trade, any work based on these technologies.
+- We do not tolerate spam in our community, including excessive crossposts from other social networks and links to NFT projects. Any user who violates this rule will face immediate action, ranging from a warning to content removal to a suspension or restricted account access, depending on the severity and frequency of the violation. Our priority is to provide a spam-free environment for our members, and we are committed to consistently enforcing this rule.
 
 ## 👤 Staff
 
@@ -218,4 +218,12 @@ Ramses Revengeday
 Support: info@corteximplant․com  
 DMCA: dmca@obeythesystem․com
 
-<a hidden rel="me" href="https://corteximplant.com/@lucy">Mastodon</a>
+# 🔗 More CORTEX IMPLANT
+
+If you're interested in learning more about the CORTEX IMPLANT Mastodon instance, there are several resources available to you. 
+
+One option is to visit the instance's [status page](https://status.corteximplant.com/), which provides real-time information on the availability and performance of the service. 
+
+Additionally, the instance has a [GitHub page](https://github.com/CORTEXIMPLANT), which may contain information on the technical aspects of the instance, including its codebase and any contributions from the community. 
+
+Finally, there is an [info page](https://info.corteximplant.com/) that provides an overview of the instance and its goals. By visiting these resources, you can gain a better understanding of the CORTEX IMPLANT Mastodon instance and its community.
