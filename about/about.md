@@ -86,13 +86,23 @@ Fediverse is not enough for you?
 
 You want to write with **LGBTQIA+ friendly** netrunners, solos, fixers, nomads, techies, medias, corpos and rockers from all over the world in real time? 
 
-Then come to our **CORTEX IMPLANT** Discord server. 
+Then come to our **CORTEX IMPLANT** Discord or Matrix server. 
 
 We see ourselves as a creative place of retreat on the internet. 
 Share your creativity with other cyberpunks and edgerunners!
 
 <a href="https://discord.gg/PwdX9cc7kd" class="button button--block">
 <span class="coolbutton">Join our Discord</span></a>
+
+<a href="https://matrix.to/#/#corteximplant:matrix.org" class="button button--block">
+<span class="coolbutton">Join our Matrix</span></a>
+
+# 🖼️ Share your edgerunner life!
+
+Looking for an alternative to Instagram? You want to be independent from corpo-social-networks? Then we invite you to [CYBERPUNK.pics](https://cyberpunk.pics). Share your wild edgerunner life on our own Pixelfed instance, guaranteed without influceners!
+
+<a href="https://cyberpunk.pics" class="button button--block">
+<span class="coolbutton">Yeah, i'm in!</span></a>
 
 # ✨ Support
 
@@ -190,6 +200,22 @@ Licensing: a licence for use was purchased for this art.
 
 We do not tolerate racism, discrimination, doxing, hate-speech and raids on this instance - for this reason some instances are blocked or muted from communicating with us.
 
-You can see our blocklist [here](https://github.com/CORTEXIMPLANT/corteximplant-mastodon/blob/main/blocklist/blocklist.md).
-
 In case you notice that you can't reach your friend because they is muted or blocked - if you feel that this is not fair, please contact [@lucy](https://corteximplant.com/@lucy).
+
+# 🧑‍⚖️‍ Legal
+
+Privately managed Mastodon instance without profit intention 
+
+CORTEX IMPLANT  
+Kappadokias 9  
+2028 Strovolos  
+Cyprus  
+  
+Authorized representative: 
+  
+Ramses Revengeday
+  
+Support: info@corteximplant․com  
+DMCA: dmca@obeythesystem․com
+
+<a hidden rel="me" href="https://corteximplant.com/@lucy">Mastodon</a>
