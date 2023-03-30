@@ -106,7 +106,7 @@ Looking for an alternative to Instagram? You want to be independent from corpo-s
 
 # ✨ Support
 
-This instance is run with a lot of love by [@revengeday](https://corteximplant.com/@revengeday) an indie musician from Berlin together with an awesome team of moderators; [@kaiserkiwi](https://corteximplant.com/@kaiserkiwi), [@chaotin](https://corteximplant.com/@chaotin), []() and [@wolfe](https://corteximplant.com/@wolfe). 
+This instance is run with a lot of love by [@revengeday](https://corteximplant.com/@revengeday) an indie musician from Berlin together with an awesome team of moderators; [@kaiserkiwi](https://corteximplant.com/@kaiserkiwi), [@chaotin](https://corteximplant.com/@chaotin), [@Sirs0ri](https://corteximplant.com/@Sirs0ri), [@LevelUp](https://corteximplant.com/@LevelUp) and [@wolfe](https://corteximplant.com/@wolfe). 
 
 To provide this great instance, we have monthly expenses to keep the instance running:
 
@@ -130,6 +130,7 @@ We would like to thank all supporters who help to keep **CORTEX IMPLANT** runnin
 
 Listing in last donated:
 
+- [@sigrun](https://corteximplant.com/@sigrun)
 - [@feedtunes](https://corteximplant.com/@feedtunes)
 - [@mpooch018](https://corteximplant.com/@mpooch018)
 - [@samreciter](https://corteximplant.com/@samreciter)
