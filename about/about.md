@@ -130,6 +130,7 @@ We would like to thank all supporters who help to keep **CORTEX IMPLANT** runnin
 
 Listing in last donated:
 
+- [@ChaosSpectre](https://corteximplant.com/@ChaosSpectre)
 - [@sigrun](https://corteximplant.com/@sigrun)
 - [@feedtunes](https://corteximplant.com/@feedtunes)
 - [@mpooch018](https://corteximplant.com/@mpooch018)
