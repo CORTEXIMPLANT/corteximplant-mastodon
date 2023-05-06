@@ -112,10 +112,10 @@ To provide this great instance, we have monthly expenses to keep the instance ru
 
 That' s what we spend: (all prices in Euro): 
 
-- Hosting: 48,00
+- Hosting: 48,83
 - Domain: 1,22
-- DeepL Pro API: 9,99
-- <u>Total:</u> 59,21
+- DeepL Pro API: 4,99
+- <u>Total:</u> 55,04
 
 If you like our instance and are happy with what we provide and would like to donate something, we are very happy to receive small donations to keep the instance running.
 
