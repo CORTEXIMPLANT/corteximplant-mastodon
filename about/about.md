@@ -1,8 +1,10 @@
 # 🫀 About
 
-**CORTEX IMPLANT** is a instance for all cyberpunks and edgerunners who survived the big *DataKrash* [[?](https://rtalsoriangames.com/2020/07/17/cyberpunk-red-meet-the-neocorps/)] and want to stay independent and hide from NetWatch.
+**CORTEX IMPLANT** is a Mastodon instance for all cyberpunks and edgerunners who survived the big *DataKrash* [[?](https://rtalsoriangames.com/2020/07/17/cyberpunk-red-meet-the-neocorps/)] and want to stay independent and hide from NetWatch.
 
 Link your cyberware and connect with creative **LGBTQIA+ friendly** netrunners, solos, fixers, nomads, techies, medias, corpos and rockers from all over the world behind a heavy ICE.
+
+Besides our Mastodon instance, we also have a [Pixelfed](https://cyberpunk.pics/), [Lemmy](https://dataterm.digital/) and a [Misskey](https://nightcity.bar/) instance - take a look.
 
 ## ⚙️ Instance settings
 
@@ -20,22 +22,13 @@ We want to give you the best way into the Fediverse on this instance and have im
 
 We are happy if you want to join this instance.
 
-But at the moment we are *almost* full, so unfortunately we can't accept every request. 
-*Please tell us why you want to join this instance* - and what type of cyberpunk you are!
+To ensure we keep our community free from spam bots, we kindly request that you briefly state your reason for joining us and share what kind of cyberpunk you identify as. 
 
-If your request was declined, please do not take it personally. 
-This has nothing to do with you or your request - we currently have to manage capacities.
+Are you a hacker, a street samurai, a renegade journalist, or something else entirely? Let us know and become a part of our vibrant cyberpunk haven. 
 
-Once you have been accepted, you have 24 hours to claim your account. If there is no activity after 24 hours, the account will be automatically closed to give others a chance. See also our [terms](https://corteximplant.com/terms) and our rules (see article below).
+We value diversity and look forward to hearing your unique cyberpunk story. 
 
-What do we mean by claim:
-
-- Create profile
-- Introduce yourself
-- Share content
-- Communicate
-
-Many thanks for your understanding!
+Join us in shaping the future!
 
 <a href="https://corteximplant.com/auth/sign_up" class="button button--block">
 <span class="coolbutton">Ok, choom! Let me in!</span></a>
@@ -71,12 +64,13 @@ You can report suspicious behavior of members to the admin or moderations at any
 - [@revengeday](https://corteximplant.com/@revengeday) (Admin)
 - [@kaiserkiwi](https://corteximplant.com/@kaiserkiwi) (Mod)
 - [@chaotin](https://corteximplant.com/@chaotin) (Mod)
-- [@wolfe](https://corteximplant.com/@wolfe) (Mod)
 - [@Sirs0ri](https://corteximplant.com/@Sirs0ri) (Mod)
 - [@LevelUp](https://corteximplant.com/@LevelUp) (Mod)
+- [@felsqualle](https://corteximplant.com/@felsqualle) (Mod)
+- [@marta](https://corteximplant.com/@marta) (Mod)
 - [@lucy](https://corteximplant.com/@lucy) (Announcer)
 
-If you do not have a Fediverse account, you can also contact us by email at help@corteximplant.com.
+If you do not have a Fediverse account, you can also contact us by email at report@obeythesystem.com
 
 When you submit your report, please allow 24 to 48 hours for us to investigate and process your report.
 
@@ -104,9 +98,18 @@ Looking for an alternative to Instagram? You want to be independent from corpo-s
 <a href="https://cyberpunk.pics" class="button button--block">
 <span class="coolbutton">Yeah, i'm in!</span></a>
 
+# 🍹 Meet edgerunners at the best bar on the net!
+
+Attention, netrunners and technophiles! We are thrilled to unveil The Night City Bar, our cutting-edge Misskey instance, blazing alongside our renowned Pixelfed and Mastodon instances. Brace yourselves for an electrifying, neon-soaked online experience that will redefine the boundaries of your digital existence!
+
+Step into The Night City Bar, where virtual realms intertwine with the gritty energy of a cyberpunk megalopolis. Join an eclectic assembly of artists, hackers, gamers, and visionaries who dwell within these digital depths, united by their passion for bleeding-edge technology and boundless imagination.
+
+<a href="https://nightcity.bar" class="button button--block">
+<span class="coolbutton">Oh nice, a NiCola on the rocks please!</span></a>
+
 # ✨ Support
 
-This instance is run with a lot of love by [@revengeday](https://corteximplant.com/@revengeday) an indie musician from Berlin together with an awesome team of moderators; [@kaiserkiwi](https://corteximplant.com/@kaiserkiwi), [@chaotin](https://corteximplant.com/@chaotin), [@Sirs0ri](https://corteximplant.com/@Sirs0ri), [@LevelUp](https://corteximplant.com/@LevelUp) and [@wolfe](https://corteximplant.com/@wolfe). 
+This instance is run with a lot of love by [@revengeday](https://corteximplant.com/@revengeday) an indie musician from Berlin together with an awesome team of moderators; [@kaiserkiwi](https://corteximplant.com/@kaiserkiwi), [@chaotin](https://corteximplant.com/@chaotin), [@Sirs0ri](https://corteximplant.com/@Sirs0ri), [@LevelUp](https://corteximplant.com/@LevelUp), [@felsqualle](https://corteximplant.com/@felsqualle) and [@marta](https://corteximplant.com/@marta). 
 
 To provide this great instance, we have monthly expenses to keep the instance running:
 
@@ -130,6 +133,8 @@ We would like to thank all supporters who help to keep **CORTEX IMPLANT** runnin
 
 Listing in last donated:
 
+- [@irafunesta](https://corteximplant.com/@irafunesta) 
+- [@TraceLines](https://corteximplant.com/@TraceLines) 
 - [@marta](https://corteximplant.com/@marta) 
 - [@5tern1](https://corteximplant.com/@5tern1) 
 - [@creamfresh](https://corteximplant.com/@creamfresh) 
@@ -217,7 +222,7 @@ In case you notice that you can't reach your friend because they is muted or blo
 
 Privately managed Mastodon instance without profit intention 
 
-CORTEX IMPLANT  
+OBEY THE SYSTEM / CORTEX IMPLANT  
 Kappadokias 9  
 2028 Strovolos  
 Cyprus  
@@ -226,15 +231,5 @@ Authorized representative:
   
 Ramses Revengeday
   
-Support: info@corteximplant․com  
+Support: info@obeythesystem․com  
 DMCA: dmca@obeythesystem․com
-
-# 🔗 More CORTEX IMPLANT
-
-If you're interested in learning more about the CORTEX IMPLANT Mastodon instance, there are several resources available to you. 
-
-One option is to visit the instance's [status page](https://status.corteximplant.com/), which provides real-time information on the availability and performance of the service. 
-
-Additionally, the instance has a [GitHub page](https://github.com/CORTEXIMPLANT), which may contain information on the technical aspects of the instance, including its codebase and any contributions from the community. 
-
-Finally, there is an [info page](https://info.corteximplant.com/) that provides an overview of the instance and its goals. By visiting these resources, you can gain a better understanding of the CORTEX IMPLANT Mastodon instance and its community.
